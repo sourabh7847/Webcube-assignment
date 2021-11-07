@@ -96,11 +96,7 @@ const App = () => {
           data: [{
             text: 'Meeting Room 101',
             value: 1
-          }, {
-            text: 'Meeting Room 201',
-            value: 2,
-            color: '#FF7272'
-          }],
+          },],
           field: 'RoomID',
           valueField: 'value',
           textField: 'text',
@@ -111,6 +107,10 @@ const App = () => {
             text: 'Peter',
             value: 1,
             color: '#5392E4'
+          },{
+              text:'Movie',
+              value:3,
+              color:'#54867B'
           }, {
             text: 'Alex',
             value: 2,
