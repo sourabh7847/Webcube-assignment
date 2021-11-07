@@ -109,11 +109,11 @@ const App = () => {
             color: '#5392E4'
           },{
               text:'Movie',
-              value:3,
+              value:2,
               color:'#54867B'
           }, {
             text: 'Alex',
-            value: 2,
+            value: 3,
             color: '#54677B'
           }],
           field: 'PersonIDs',
